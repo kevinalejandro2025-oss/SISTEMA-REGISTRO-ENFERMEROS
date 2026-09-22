@@ -1,0 +1,11 @@
+--- DATOS DEL ENFERMER@ ---
+El nombre del enfermer@ es: ALEJANDRO
+La fecha de nacimiento del enfermer@ es:1995
+La edad del enfermer@ es: 31 años.
+La fecha de contrato es: 20/01/2022
+La Especialidad del enfermer@ es: CARDIOLOGIA
+El número de pacientes atendidos es: 10
+El número de celular es: 3147513299
+El sueldo a pagar es: 2588125.0
+La fecha del registro es: 2026-09-22
+La hora del registro es: 13:27:50.944017200
